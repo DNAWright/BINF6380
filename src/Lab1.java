@@ -17,7 +17,7 @@ public class Lab1 {
             for(int y=0;y<3;y++){
 
                 // Random generator to return an int between 0-3 with even probability (.25 per)
-                buff.append(returnAA(rand.nextInt(100), 25, 25, 25));
+                buff.append(returnAA(rand.nextInt(100), 12, 38, 39));
                 }
 
                 //Check to see if the 3mer created matches the AAA amino acid
